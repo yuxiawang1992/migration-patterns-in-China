@@ -24,11 +24,11 @@ and their insightful findings are discussed.
 Active population distribution on New Year's Eve of 2016 and the difference between it and normal work days
 <table><tr>
 <td><img src= "/figures/spring_festival.tif" width=300 ></td>
-<td><img src= "/results/difference_density.jpg" width=300 ></td>
+<td><img src= "/figures/difference_density.jpg" width=300 ></td>
 </tr></table>
 
 Time series curve of 9 typical cities, and the spatial distribution of per capita GRP of secondary and tertiary industry coefficients obtained from the GWR model
 
 <table><tr>
-<td><img src= "/results/time_series.jpg" width="300" > <td>
-<td><img src= "/results/GWR-GRPST.jpg" width="300" > <td>
+<td><img src= "/figures/time_series.jpg" width="300" > <td>
+<td><img src= "/figures/GWR-GRPST.jpg" width="300" > <td>
